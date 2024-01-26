@@ -10,3 +10,5 @@ Extract the titles and preview text of the news articles that you scraped. Store
 (b) Store all the dictionaries in a Python list.
 
 (c) Print the list in your notebook.
+
+Output of query
